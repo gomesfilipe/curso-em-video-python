@@ -4,3 +4,4 @@ altura = input('Qual a sua altura? ')
 idade = input('Quantos anos voce tem? ')
 
 print(nome, peso, altura, idade)
+
